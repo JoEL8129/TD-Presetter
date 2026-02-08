@@ -1,9 +1,12 @@
 # TD-Presetter
 
-TouchDesigner PlugIn for Preset Creation
+Per-COMP-Preset TouchDesigner PlugIn. 
 
 
 ![img](./data/img1.jpg)
+
+![img](./data/4.gif)
+<br>
 
 ![img](./data/3.gif)
 <br>

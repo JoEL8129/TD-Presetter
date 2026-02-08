@@ -5,6 +5,7 @@ TouchDesigner PlugIn for Preset Creation
 
 ![img](./data/img1.jpg)
 
+![img](./data/3.gif)
 <br>
 
 ## Description

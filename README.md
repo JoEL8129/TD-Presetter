@@ -13,7 +13,7 @@ Per-COMP-Preset TouchDesigner PlugIn.
 
 ## Description
 
-The Presetter is a lightweight utility for creating and recalling presets on COMPs. It is not a global preset manager or system. It stores a COMP's parameter names and values as presets on that COMP and exposes them via a Menu parameter on the COMP (or in the module—see Usage). Presets are stored in Python Storage, so saving the COMP as a .tox file also saves its presets.
+The Presetter is a utility tool for creating and recalling presets on COMPs. It is not a global preset manager or system. It stores a COMP's parameter names and values as presets on that COMP and exposes them via a Menu parameter on the COMP (or in the module—see Usage). Presets are stored in Python Storage, so saving the COMP as a .tox file also saves its presets.
 
 ## Installation
 

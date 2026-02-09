@@ -8,8 +8,7 @@ Per-COMP-Preset TouchDesigner PlugIn.
 ![img](./data/4.gif)
 <br>
 
-![img](./data/3.gif)
-<br>
+
 
 ## Description
 
